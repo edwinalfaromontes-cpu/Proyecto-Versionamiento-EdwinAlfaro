@@ -1,0 +1,44 @@
+CSS body {
+    font-family: 'Segoe UI';
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+div {
+    padding: 25px;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+img {
+    border-radius: 4%;
+    margin-top: 15px;
+}
+
+h2 {
+    color: #0b3552;
+    font-size: 1.5rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-weight: bold;
+    color: #2c3e50;
+}
